@@ -1,7 +1,7 @@
 # Human-Behavior-Recognition
 
 ## description
-- Real-time video streaming for automated human subtle behavior recognition.
+- Real-time video streaming for automated human subtle behavior recognition. The framework uses an open source library to track the facial feature points and the rigid body face transformations on each frame. Unlike activity recognition tasks, where the algorithm can only globally recognize  a certain activity (i.e soccer, basketball, running, etc),  the proposed behavioral recognition framework buffers local spatio-temporal vectors to detect and track subtle movements to perceive human behavior. 
 
 
 ## code
