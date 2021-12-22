@@ -6,8 +6,10 @@
 
 ## code
 - All source code is in `src`.
-- Train using the `CNN.py` file.
-- Get best model using the `TestCNN.py` file.
+- Human behavior recognition pipeline code resides at the `behavioral_detector.py` file.
+- Human head-pose estimator can be found at the `headpose.py` file.
+- Utilities including image processing (filtering, resizing, denoising, angle-measurements, etc) can be found at `utils.py` file.
+
 
 ## documentation
 - Code is the documentation of itself.
