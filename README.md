@@ -24,3 +24,6 @@ The pipeline is demonstrated below.
 - Human-Behavior-Detector. The video in the left is streamed using a monocular webcamera and the output with the human-behavior-recognition results is shown in the right.
 
  ![](./video/behavior-detector.gif)
+| Video Input | Video Screening |
+| --- | --- |
+| ![](./video/video-screening.gif) | ![](./video/behavior-detector.gif) |
