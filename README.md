@@ -26,4 +26,4 @@ The pipeline is demonstrated below.
  ![](./video/behavior-detector.gif)
 | Video Input | Video Screening |
 | --- | --- |
-| ![](./video/video-screening.gif) | ![](./video/behavior-detector.gif) |
+| ![](./video/video-screeningaa.gif) | ![](./video/behavior-detector.gif) |
