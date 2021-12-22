@@ -21,4 +21,4 @@ The pipeline is demonstrated below.
 
 - Human-Behavior-Detector.
 
-| ![](./behavior-detector.gif)
+ ![](./behavior-detector.gif)
